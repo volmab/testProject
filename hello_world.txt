@@ -1,4 +1,4 @@
-print ('Hello word!')
-print ('hello')
-print ('hello my dear friend!')
-print ('Glad to see you')
+print ('Hello word!;')
+print ('hello;')
+print ('hello my dear friend!;')
+print ('Glad to see you;')
